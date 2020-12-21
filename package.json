@@ -3,7 +3,7 @@
   "_id": "tratu@2.2.0",
   "_inBundle": false,
   "_integrity": "sha512-ILwaRpjHdWRMqjUPz4UkZwFt6bVGpKCYjurWCZES9vbWU5cKqaS7qfFRiBzQPDle/iDkZz8h4NR4OR7XLV3viQ==",
-  "homepage": "https://github.com/stewie1520/tratu"
+  "homepage": "https://github.com/stewie1520/tratu",
   "_location": "/tratu",
   "_phantomChildren": {
     "ansi-styles": "3.2.1",
